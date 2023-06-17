@@ -32,10 +32,7 @@ def stock_market():
 with st.sidebar:
     st.header("STOCK MARKET PREDICTION USING MACHINE LEARNING")
     st.image("stockmarket.jpg")
-    st.header("Team name : TEKKYZZ")
-    st.write("Leader     : MOHAMED FARHUN M")
-    st.write("Member 1   : NANDHAKUMAR S")
-    st.write("Member 2   : DHIVAKAR S")
+    st.write("App owned by: MOHAMED FARHUN M")
     st.subheader("How does stock work?")
     video_file = open('stock.mp4', 'rb')
     video_bytes = video_file.read()

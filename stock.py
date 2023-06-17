@@ -38,7 +38,7 @@ with st.sidebar:
     video_bytes = video_file.read()
     st.video(video_bytes)
     st.sidebar.markdown(
-    "Do visit our [Github Repository](https://github.com/MohamedFarhun/Stock-performance-comparison)"
+    "Do visit our [Github Repository](https://github.com/MohamedFarhun/StockMarketAnalysis)"
 ) 
         
         

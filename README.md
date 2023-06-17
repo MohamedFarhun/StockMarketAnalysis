@@ -47,6 +47,8 @@ stock_market_analysis_using_machine_learning.add_bg_from_url().value
 stock_market_analysis_using_machine_learning$add_bg_from_url()$value()
 
 ## Author  
-### Mohamed Farhun M, Nandhakumar S, Dhivakar S
+### Mohamed Farhun M
+
+## Youtube video link:-https://youtu.be/Gf1MbNDPrt4
 
 ## 🔴 Warning: This is not financial advisor.  Do not use this to invest or trade. It is for educational purpose.  

@@ -2,7 +2,7 @@
 
 ## Stock-performance-comparison
 
-# Python for Stock Trading and Investment
+## Python for Stock Trading and Investment
 
 ### List of different types of analyzing stocks and trading strategies
 

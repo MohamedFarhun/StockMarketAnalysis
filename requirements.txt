@@ -84,7 +84,7 @@ rich==12.5.1
 
 scikit-learn==1.1.2
 
-seaborn==0.12.0
+seaborn==0.12.2
 
 semver==2.13.0
 
